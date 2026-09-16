@@ -25,6 +25,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.felcilitate-consulting.com/stories/"/>
   </url>
   <url>
+    <loc>https://www.felcilitate-consulting.com/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.felcilitate-consulting.com/contact/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.felcilitate-consulting.com/de/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.felcilitate-consulting.com/contact/"/>
+  </url>
+  <url>
     <loc>https://www.felcilitate-consulting.com/stories/cold-eye-review/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.felcilitate-consulting.com/stories/cold-eye-review/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.felcilitate-consulting.com/de/referenzen/cold-eye-review/"/>
@@ -110,5 +116,11 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.felcilitate-consulting.com/stories/project-controls-workshop/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.felcilitate-consulting.com/de/referenzen/project-controls-workshop/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.felcilitate-consulting.com/stories/project-controls-workshop/"/>
+  </url>
+  <url>
+    <loc>https://www.felcilitate-consulting.com/de/kontakt/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.felcilitate-consulting.com/contact/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.felcilitate-consulting.com/de/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.felcilitate-consulting.com/contact/"/>
   </url>
 </urlset>

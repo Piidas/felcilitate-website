@@ -57,16 +57,19 @@
   <url>
     <loc>https://www.felcilitate-consulting.com/impressum/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.felcilitate-consulting.com/impressum/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.felcilitate-consulting.com/de/impressum/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.felcilitate-consulting.com/impressum/"/>
   </url>
   <url>
     <loc>https://www.felcilitate-consulting.com/privacy-policy/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.felcilitate-consulting.com/privacy-policy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.felcilitate-consulting.com/de/datenschutz/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.felcilitate-consulting.com/privacy-policy/"/>
   </url>
   <url>
     <loc>https://www.felcilitate-consulting.com/cookies/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.felcilitate-consulting.com/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.felcilitate-consulting.com/de/cookies/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.felcilitate-consulting.com/cookies/"/>
   </url>
   <url>
@@ -122,5 +125,23 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.felcilitate-consulting.com/contact/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.felcilitate-consulting.com/de/kontakt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.felcilitate-consulting.com/contact/"/>
+  </url>
+  <url>
+    <loc>https://www.felcilitate-consulting.com/de/impressum/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.felcilitate-consulting.com/impressum/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.felcilitate-consulting.com/de/impressum/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.felcilitate-consulting.com/impressum/"/>
+  </url>
+  <url>
+    <loc>https://www.felcilitate-consulting.com/de/datenschutz/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.felcilitate-consulting.com/privacy-policy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.felcilitate-consulting.com/de/datenschutz/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.felcilitate-consulting.com/privacy-policy/"/>
+  </url>
+  <url>
+    <loc>https://www.felcilitate-consulting.com/de/cookies/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.felcilitate-consulting.com/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.felcilitate-consulting.com/de/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.felcilitate-consulting.com/cookies/"/>
   </url>
 </urlset>

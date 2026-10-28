@@ -165,7 +165,7 @@ li{margin-bottom:.4em}
 .contact{margin-top:26px;border-top:1px solid var(--rule-dark);padding-top:18px;font-size:17px;display:flex;flex-wrap:wrap;gap:8px 30px}
 .contact a{white-space:nowrap}
 .mini{display:flex;gap:22px;align-items:center;background:var(--navy-2);padding:26px 28px;border-bottom:3px solid var(--white)}
-.mini img{width:112px;height:112px;object-fit:cover;filter:grayscale(1);flex:none}
+.mini img{width:112px;height:112px;object-fit:cover;object-position:50% 0;filter:grayscale(1);flex:none}
 .mini h3{font-size:22px}
 .mini .role{color:var(--green);font-size:13px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;margin:2px 0 8px}
 .mini p{margin:0;font-size:16px;color:var(--steel-light)}

@@ -320,3 +320,12 @@ li{margin-bottom:.4em}
 .svc{padding:48px 0}
 .tool{padding:48px 0}
 @media (max-width: 640px){.ph .wrap{padding-top:44px;padding-bottom:40px}.sec > .wrap{padding-top:44px;padding-bottom:44px}.story-body > .wrap{padding-top:28px;padding-bottom:44px}.offer .wrap{padding:36px 20px}}
+
+/* Mobile: lange deutsche Wörter in Überschriften nicht abschneiden (11/2026) */
+@media (max-width: 640px){
+  h1,h2,h3,h4{-webkit-hyphens:auto;hyphens:auto;overflow-wrap:break-word}
+  p,li,td,a,span{overflow-wrap:break-word}
+  p,li{-webkit-hyphens:auto;hyphens:auto}
+  h1{font-size:32px}
+  .svc h2,.tool h2,.profile h2,.split .txt h2{font-size:28px}
+}
